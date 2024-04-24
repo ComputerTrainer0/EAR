@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<weblogic-application xmlns="http://xmlns.oracle.com/weblogic/weblogic-application" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.oracle.com/weblogic/weblogic-application http://xmlns.oracle.com/weblogic/weblogic-application/1.5/weblogic-application.xsd">
+  <session-descriptor>
+    <timeout-secs>4000</timeout-secs>
+    <invalidation-interval-secs>70</invalidation-interval-secs>
+  </session-descriptor>
+</weblogic-application>
